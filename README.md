@@ -58,6 +58,4 @@ This is not a personal project, but a practice implementation of a guided course
 I’m Ashkan — currently learning Django and backend development, and working on real-world-style projects to improve my skills. This project helped me understand REST APIs, TDD, and backend architecture.
 
 - [GitHub](https://github.com/AsHkAn-Django)
-- [LinkedIn](https://www.linkedin.com/in/ashkan-ahrari-146080150)
-
 
